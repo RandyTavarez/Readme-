@@ -2,6 +2,6 @@
 
 -estado del proyecto: en construcion 
 
-pata ejecutar el sistema, debes poner:
+para ejecutar el sistema, debes poner:
 
 "'npm install react '''
